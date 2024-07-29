@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://dev.to/kydev](https://kydev-2vxau65md-crisky94s-projects.vercel.app/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kydev" height="30" width="40" /></a>
+<a href="https://kydev-2vxau65md-crisky94s-projects.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kydev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristinalabradorordo%c3%b1ez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristinalabradorordo%c3%b1ez/" height="30" width="40" /></a>
 </p>
 
