@@ -82,5 +82,5 @@
 
 <h3 align="center">Estadísticas de GitHub:</h3>
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisky94&show_icons=true&locale=en&layout=compact" alt="crisky94" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisky94&show_icons=true&locale=en&layout=compact" alt="crisky94" /></p>
 </p>
