@@ -1,4 +1,4 @@
-<h1 align="center">Buenas, mi nombre es Cris Labrador</h1>  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Buenas, mi nombre es Cris Labrador <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Soy Full-stack Developer🧑🏼‍💻</h3>
 
 <h3 align="left">Mi linkedin:</h3>
