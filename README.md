@@ -70,11 +70,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisky94&show_icons=true&locale=en&layout=compact" alt="crisky94" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisky94&show_icons=true&locale=en" alt="crisky94" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisky94&" alt="crisky94" /></p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
@@ -83,4 +78,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="center">Estadísticas de GitHub:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crisky94&show_icons=true&locale=en" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisky94&" alt="Racha de GitHub"/>
 </p>
