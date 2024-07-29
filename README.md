@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Soy Cristina Labrador, aunque me gusta que me llamen Ky.</h1>
-<h3 align="center">Soy un desarrollador full-stack apasionado por la creación de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.</h3>
+<h3 align="center">Soy un desarrolladora full-stack apasionada por la creación de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.</h3>
 
 - 🔭 I’m currently working on [Freeday-quiz](https://github.com/crisky94/Freeday-quiz)
 
