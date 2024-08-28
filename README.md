@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> Soy Cris Labrador, aunque me gusta que me llamen Ky.</h1>
+<h1 align="center">¡Hola! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> Soy Cris Labrador.</h1>
 
 <h3 align="center">
   Soy una desarrolladora full-stack apasionada por la creación de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.
