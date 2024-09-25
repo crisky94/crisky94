@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> Soy Cris Labrador.</h1>
 
 <h3 align="center">
-  Soy una desarrolladora full-stack. Una aficionada a la lógica. Cuando descubrí la programación, no lo dude, ya que mi afición se podía convertir en parte de mi trabajo. Y por eso me forme hace unos 5 meses en desarrolladora web frontend y backend.
+  Soy una desarrolladora full-stack. Una aficionada a la lógica. Cuando descubrí la programación, no lo dude, ya que mi afición se podía convertir en parte de mi trabajo. Y por eso me forme hace unos 5 meses en desarrolladora web.
 </h3>
 
 # 🔭 Actualmente estoy trabajando en <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
