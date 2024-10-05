@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
+<h1 align="center">Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
 
 <h3 align="center">
 I am a full-stack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained about 5 months ago as a web developer.
