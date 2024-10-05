@@ -1,13 +1,13 @@
-<h1 align="center">¡Hola! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> Soy Cris Labrador.</h1>
+<h1 align="center">¡Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
 
 <h3 align="center">
-  Soy una desarrolladora full-stack. Una aficionada a la lógica. Cuando descubrí la programación, no lo dude, ya que mi afición se podía convertir en parte de mi trabajo. Y por eso me forme hace unos 5 meses en desarrolladora web.
+I am a full-stack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained about 5 months ago as a web developer.
 </h3>
 
-# 🔭 Actualmente estoy trabajando en <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
+# 🔭 I am currently working on <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
 
 
-## 🌐 Red Social:
+## 🌐 Social Network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
 [Portfolio](https://kydev.vercel.app/)
 
