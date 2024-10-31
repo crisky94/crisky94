@@ -25,7 +25,7 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 [![](https://visitcount.itsvg.in/api?id=crisky94&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
-<img src="https://raw.githubusercontent.com/crisky94/output/main/snake.svg" alt="Snake Animation" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
