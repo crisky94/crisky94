@@ -6,8 +6,6 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 
 # 🔭 I am currently working on <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
 
-
-## 🌐 Social Network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
 [Portfolio](https://kydev.vercel.app/)
 
