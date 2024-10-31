@@ -28,6 +28,7 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/crisky94/output/main/snake.svg" alt="Snake Animation" />
-###
+[<img src="https://raw.githubusercontent.com/crisky94/output/main/snake.svg" alt="Snake Animation" />](https://raw.githubusercontent.com/crisky94/output/main/snake.svg
+)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
