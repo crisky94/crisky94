@@ -43,17 +43,12 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crisky94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crisky94&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ github.crisky94 }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
