@@ -45,8 +45,7 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=crisky94&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crisky94&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
