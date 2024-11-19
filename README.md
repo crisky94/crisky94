@@ -8,7 +8,6 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
 [Portfolio](https://kydev.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kylabrador)
 
 # 💻 Tech Stack:
 
