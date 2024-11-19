@@ -49,3 +49,5 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crisky94&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31edroea45y7wumwzfsdbare2vji)
