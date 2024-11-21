@@ -52,7 +52,5 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=crisky94&theme=neon&hide_border=false'/>
 </div>
 
-<!-- platane/snk works, it just puts it on a new branch -->
-<div align="center">
 ![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)
-</div>
+
