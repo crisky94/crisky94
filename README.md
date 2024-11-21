@@ -54,4 +54,4 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![crisky94 snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
+![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)
