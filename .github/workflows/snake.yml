@@ -1,37 +1,51 @@
-name: Deploy to GitHub Pages
+name: GitHub Snake Game
 
 on:
+  # Programar la ejecución diaria a la medianoche UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permitir la ejecución manual del flujo de trabajo
+  workflow_dispatch:
+
+  # Disparar el flujo de trabajo al hacer push en la rama main
   push:
     branches:
-      - main  # Ejecutar cuando se haga push en la rama main
-  workflow_dispatch:  # Permitir ejecución manual del flujo de trabajo
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      # Paso 1: Clonar el repositorio
-      - name: Checkout repository
+      # Paso 1: Configurar Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      # Paso 2: Clonar el repositorio
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Paso 2: Configurar Node.js si es necesario (opcional, si usas Node.js en el proyecto)
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      # Paso 3: Generar las animaciones de la serpiente
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          node-version: '20'
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Paso 3: Instalar dependencias (si es necesario para tu proyecto)
-      - name: Install dependencies
-        run: npm install
-
-      # Paso 4: Construir el sitio (reemplaza este paso con tu comando de construcción)
-      - name: Build the project
-        run: npm run build
-
-      # Paso 5: Desplegar en GitHub Pages
-      - name: Deploy to GitHub Pages
+      # Paso 4: Desplegar los archivos generados a la rama 'output'
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public  # Reemplaza "./public" con la carpeta donde se generan tus archivos
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
