@@ -1,97 +1,37 @@
-name: GitHub Snake Game
-
-
+name: Deploy to GitHub Pages
 
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
-  schedule:
-
-    - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
-  workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
-      - main
-
-
+      - main  # Ejecutar cuando se haga push en la rama main
+  workflow_dispatch:  # Permitir ejecución manual del flujo de trabajo
 
 jobs:
-
-  generate:
-
+  build:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 10
-
-
-
     steps:
-
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
+      # Paso 1: Clonar el repositorio
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
-        uses: Platane/snk@v3
-
+      # Paso 2: Configurar Node.js si es necesario (opcional, si usas Node.js en el proyecto)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
+          node-version: '20'
 
-          # GitHub username to generate the animation for
+      # Paso 3: Instalar dependencias (si es necesario para tu proyecto)
+      - name: Install dependencies
+        run: npm install
 
-          github_user_name: ${{ github.repository_owner }}
+      # Paso 4: Construir el sitio (reemplaza este paso con tu comando de construcción)
+      - name: Build the project
+        run: npm run build
 
-
-
-          # Define the output files and their configurations
-
-          outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
+      # Paso 5: Desplegar en GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-
         with:
-
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+          publish_dir: ./public  # Reemplaza "./public" con la carpeta donde se generan tus archivos
