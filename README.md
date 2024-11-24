@@ -7,7 +7,10 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 # 🔭 I am currently working on <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kydev.vercel.app/)
+<a href="https://kydev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+</a>
+
 
 # 💻 Tech Stack:
 
