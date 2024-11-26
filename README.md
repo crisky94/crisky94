@@ -7,8 +7,8 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 # 🔭 I am currently working on <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kydev.vercel.app/)<br/>
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/crisDev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kydev.vercel.app/)<br/>
 
 # 💻 Tech Stack:
 
