@@ -4,7 +4,6 @@
 I am a full-stack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained about 5 months ago as a web developer.
 </h3>
 
-# 🔭 I am currently working on <a href="https://github.com/crisky94/Freeday-quiz" target="_blank" rel="noopener noreferrer">Freeday-quiz</a>
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/crisDev)<br/>
