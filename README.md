@@ -5,7 +5,7 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 </h3>
 
 # 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinalabradorordo%C3%B1ez/)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristina-labrador-ordoñez/)<br/>
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/crisDev)<br/>
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kydev.vercel.app/)
 
