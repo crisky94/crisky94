@@ -7,7 +7,7 @@ I am a full-stack developer. A fan of logic. When I discovered programming, I di
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristina-labrador-ordoñez/)<br/>
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/crisDev)<br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://kydev.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kydev.vercel.app/)
 
 # 💻 Tech Stack:
 
