@@ -2,7 +2,7 @@
 <H2 align="center">But my friends call me Ky</H2>
 
 <h3 align="center">
-I am a full-stack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
+I am a FullStack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3>
 
 # 🌐 Socials: 
