@@ -43,9 +43,6 @@ I am a FullStack developer. A fan of logic. When I discovered programming, I did
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-
-
 </td></tr></table>  
 
 <br/>  
