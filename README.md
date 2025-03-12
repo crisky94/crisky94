@@ -5,10 +5,6 @@
 I am a FullStack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3>
 
-# 🌐 Socials: 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristina-labrador-ordoñez/)<br/>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kydev.me)
-
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
