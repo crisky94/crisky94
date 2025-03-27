@@ -50,7 +50,7 @@ I am a FullStack developer. A fan of logic. When I discovered programming, I did
 </div>
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=crisky94&theme=neon&hide_border=false&include_all_commits=false&count_private=false'/>
-<!--   <img src='https://github-readme-streak-stats.herokuapp.com/?user=crisky94&theme=neon&hide_border=false'/> -->
+   <img src='https://github-readme-streak-stats.herokuapp.com/?user=crisky94&theme=neon&hide_border=false'/> -->
 </div>
 
 ![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)
