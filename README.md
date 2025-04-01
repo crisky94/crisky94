@@ -5,6 +5,8 @@
 I am a FullStack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3>
 
+<!-- ![Mi Avatar](https://github.com/ky.png) -->
+
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
