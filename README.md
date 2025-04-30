@@ -69,5 +69,5 @@ I am a FullStack developer. A fan of logic. When I discovered programming, I did
  ![crisky94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
-![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)
+<!--![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)-->
 
