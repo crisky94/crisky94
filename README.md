@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <img align="center" width="200" src="avatar.jpeg" />
   <h1 align="center">Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
 <h2 align="center">My friends refer to me as Ky.</h2>
 </p>
