@@ -1,5 +1,9 @@
-<h1 align="center">Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
-<H2 align="center">My friends refer to me as Ky.</H2>
+
+<p align="center" width="300">
+   <img align="center" width="200" src="" />
+  <h1 align="center">Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
+<h2 align="center">My friends refer to me as Ky.</h2>
+</p>
 
 <h3 align="center">
 I am a FullStack developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
