@@ -51,10 +51,10 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
 
 
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 
  ![crisky94's Stats](https://github-readme-stats.vercel.app/api?username=crisky94&theme=radical&show_icons=true&hide_border=true&count_private=true)
- ![crisky94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=radical&show_icons=true&hide_border=true&layout=compact)
+ ![crisky94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=radical&show_icons=true&hide_border=true&layout=compact)-->
 
 
 <!--![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)-->
