@@ -1,37 +1,26 @@
 
-<p align="center" width="300">
-   <!--<img align="center" width="200" src="avatar.jpeg" />-->
+
+   
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   <h1 align="center">Hi! <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hola"/> I'm Cris Labrador.</h1>
 <h2 align="center">My friends refer to me as Ky.</h2>
-</p>
+
 
 <h3 align="center">
 I am a Frontend developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3>
 
-<!-- ![Mi Avatar](https://github.com/ky.png) -->
-
 # 💻 Tech Stack:
-<table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-</td><td valign="top" width="33%">
-
-
-
-###  Backend  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
@@ -43,16 +32,5 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
 
   
 
-</table>
-<br/>  
 
-
-
-<!--# 📊 GitHub Stats:
-
- ![crisky94's Stats](https://github-readme-stats.vercel.app/api?username=crisky94&theme=radical&show_icons=true&hide_border=true&count_private=true)
- ![crisky94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&theme=radical&show_icons=true&hide_border=true&layout=compact)-->
-
-
-<!--![crisky94 snake gif](https://github.com/crisky94/crisky94/blob/output/github-snake.svg)-->
-
+<a href="https://www.crisky94.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisky94&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
