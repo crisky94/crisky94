@@ -38,8 +38,7 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" height="40" alt="angular" />
   </div>
-<br/>
-<br/>
+
   ### ⚙️ Backend & Databases
   <br/>
 <br/>
@@ -58,8 +57,7 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgres" />
   </div>
-<br/>
-<br/>
+
   ### 🛠️ Tools & Design
   <br/>
   <div style="background-color: white; padding: 15px; border-radius: 10px;">
