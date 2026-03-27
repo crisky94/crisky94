@@ -1,5 +1,5 @@
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ky%2C+web+dev+and+fan+of+logic+%E2%9C%A9" width="70%" />
    
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   <h1 align="center">Hi! I'm Ky Labrador</h1>
@@ -86,7 +86,6 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
 <br/>
 <br/>
 <br/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisky94/crisky94/output/pacman-contribution-graph-dark.svg">
