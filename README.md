@@ -9,7 +9,9 @@
 I am a Frontend developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3> -->
 
-# 💻 Tech Stack:
+<h3>
+  💻 Tech Stack: 
+</h3> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
