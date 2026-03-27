@@ -9,10 +9,11 @@
 I am a Frontend developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
 </h3> -->
 
-<h3>
+<h2>
   💻 Languages and tools: 
-</h3> 
-
+</h2> 
+<br/>
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
