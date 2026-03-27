@@ -83,6 +83,10 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
 </div>
 
+<br/>
+<br/>
+<br/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisky94/crisky94/output/pacman-contribution-graph-dark.svg">
