@@ -10,7 +10,7 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
 </h3> -->
 
 <h3>
-  💻 Technologies: 
+  💻 Languages and tools: 
 </h3> 
 
 <div align="center">
