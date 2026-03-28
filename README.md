@@ -10,13 +10,6 @@
  <br/>
   <br/>
    <br/>
-  <!-- <h1 align="center">Hi! I'm Ky Labrador</h1> -->
-
-
-<!-- <h3 align="center">
-I am a Frontend developer. A fan of logic. When I discovered programming, I did not hesitate, because my hobby could become part of my job. And that's why I trained as a web developer.
-</h3> -->
-
 
 <br/>
 <br/>
@@ -84,13 +77,17 @@ I am a Frontend developer. A fan of logic. When I discovered programming, I did 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=crisky94&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
-###
+<br/>
+<br/>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisky94/crisky94/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crisky94/crisky94/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crisky94/crisky94/output/pacman-contribution-graph.svg">
 </picture>
-###
+<br/>
+<br/>
+<br/>
 <p align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/> -->
