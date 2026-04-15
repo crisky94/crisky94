@@ -58,7 +58,7 @@
 ### 🛠️ Tools & DevOps
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
