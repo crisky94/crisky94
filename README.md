@@ -13,7 +13,6 @@
 <br/>
 <br/>
 <div align="center">
-
 ### 🚀 Languages & Frameworks
 <div style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
